@@ -8,9 +8,7 @@ Utilizing new design methodologies requires a multidisciplinary approach. NUR cr
 
 ## NUR Lab
 - **Location**: Be'er Sheva, serving cities throughout Israel
-- **Purpose**: A creative workspace for visiting researchers and project-specific teams
-- **Activities**: Tackling specific questions and opportunities together
-- **Events**: Fostering the exchange of innovative methods and creative approaches through conferences, workshops, and public discussions
+- **Mission**: Our mission is to solve local challenges in the Negev that have global implications, focusing on urban innovation in arid environments.
 
 ## Background
 - **Launched**: 2024
@@ -19,6 +17,3 @@ Utilizing new design methodologies requires a multidisciplinary approach. NUR cr
 
 ## Funding
 NUR is funded, in part, by the State of Israel's joint ministry task force.
-
-## Mission
-Our mission is to solve local challenges in the Negev that have global implications, focusing on urban innovation in arid environments.
